@@ -9,4 +9,4 @@ Example video: of multi-angle capture: https://youtube.com/playlist?list=PLmcjDq
 
 However, we recommend to use the new Picam2 module which allows greater control of camera properties and image/video produced. Will be uploaded shortly.
 
-
+Ps if anyone is seeing this, I will have the code by the start of Decemeber.
